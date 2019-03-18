@@ -30,3 +30,4 @@ it using Caffe Model to detect the object/person faced by the the user, and then
    * Location logging using location magic.
    * Emergency button is used to send the live location to thier dear ones.
    
+youtube link--  https://youtu.be/L_M9tr_B1Ac
